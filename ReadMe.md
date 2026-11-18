@@ -8,7 +8,7 @@ Created using PHP & MySQL
 
 ## Demo
 
-[Hostel Management System](https://youtu.be/J2JDz6A3w5w)
+[Hostel Management System]
 
 ## Usage
 
@@ -27,8 +27,8 @@ Created using PHP & MySQL
   - Password: at1
 
 - Student
-    - Username: muhammaddanish1458@gmail.com
-    - Password: danish
+    - Username: Student.01@gmail.com
+    - Password: 01@Student
 
 Important! For database reference the passwords are md5 encrypted in database
 
@@ -58,7 +58,3 @@ Student:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## Reference
-
-Updated an existing project. Original project can be found [here](https://codeastro.com/hostel-management-system-in-php-with-source-code/)
